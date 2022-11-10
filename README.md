@@ -32,7 +32,6 @@
 
 </p>
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g4dalcom)](https://solved.ac/g4dalcom/)
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g4dalcom)](https://solved.ac/g4dalcom/)
+</div>
