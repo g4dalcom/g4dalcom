@@ -31,8 +31,3 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>&nbsp
 
 </p>
-
-<div align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=g4dalcom)](https://solved.ac/g4dalcom)
-</div>
